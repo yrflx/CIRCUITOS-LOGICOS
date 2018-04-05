@@ -16,14 +16,9 @@ Isso pode ser feito importanto as configurações do projeto anterior ou da segu
 2. Seleciona-se o FPGA presenta na placa de família Cyclone II: EP2C5T144C6;
 3. Adiciona-se o código VHDL, salvando-o no arquivo sillyfunction_gates.vhd
 4. Em Settings->EDA Tools Settings->Simulation, define-se:
-
- a.Tool Name: ModelSim-Altera;
- 
- b.Na aba EDA Netlist whiter setting, Output Directory:simulation/modelsim
- 
- c.Na aba NativeLink Settings, inclui-se o testbench localizado em testbench_sillyfunction_gates/testbench_sillyfunction_gates.vhd
-
-
+4.1. Tool Name: ModelSim-Altera;
+4.2. Na aba EDA Netlist whiter setting, Output Directory:simulation/modelsim;
+4.3. Na aba NativeLink Settings, inclui-se o testbench localizado em testbench_sillyfunction_gates/testbench_sillyfunction_gates.vhd;
 5. Criar um arquivo de nome example.tv contendo a tabela da verdade do circuito.
 
 
