@@ -1,13 +1,13 @@
-# CIRCUITOS-LOGICOS
+# CIRCUITOS LOGICOS
 
 RELATÓRIO  - AULA 2 (LOGIC GATES)
 
-# INICIO:
+## INICIO:
 Para realização do projeto com portas lógicas AND, OR, XOR, NAND e NOR, usaremos o código a seguir: 
 
 ![PreparacaoCodigo](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/preparacao2_codigo.png)
 
-# CONFIGURAÇÃO - SOFTWARE QUARTUS II
+## CONFIGURAÇÃO - SOFTWARE QUARTUS II
 
 Como no projeto anterior, é preciso configurar o projeto no software QuartusII para executar a tarefa com precisão.
 Isso pode ser feito importanto as configurações do projeto anterior ou da seguinte forma:
@@ -26,7 +26,7 @@ Trecho do arquivo testbench_sillyfunction_gates.vhd
 ![testbench_sillyfunction_gates](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/trecho_sillyfunction_gates.png)
 
 
-# RESULTADOS
+## RESULTADOS
 
 Clicando em Tools-> Netlist Views-> RTL Views, obtemos o circuito:
 
@@ -43,7 +43,7 @@ GATE LEVEL SIMULATION:
 ![level_gates_simulation](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/level_gates_simulation.png)
 
 
-# OBSERVAÇÕES
+### OBSERVAÇÕES
 
 Foi necessário, porém, fazer algumas alterações no clock, definindo-o da seguinte maneira:
 
