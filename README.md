@@ -2,7 +2,7 @@
 
 RELATÓRIO  - AULA 2 (LOGIC GATES)
 
-# inicio:
+# INICIO:
 Para realização do projeto com portas lógicas AND, OR, XOR, NAND e NOR, usaremos o código a seguir: 
 
 ![PreparacaoCodigo](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/preparacao2_codigo.png)
