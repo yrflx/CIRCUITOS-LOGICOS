@@ -5,7 +5,7 @@ RELATÓRIO  - AULA 2 (LOGIC GATES)
 # inicio:
 Para realização do projeto com portas lógicas AND, OR, XOR, NAND e NOR, usaremos o código a seguir: 
 
-![PreparacaoCodigo](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/preparacao_codigo.png)
+![PreparacaoCodigo](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/preparacao2_codigo.png)
 
 # CONFIGURAÇÃO - SOFTWARE QUARTUS II
 
@@ -28,7 +28,7 @@ Trecho do arquivo testbench_sillyfunction_gates.vhd
 
 # RESULTADOS
 
-Clicando em Tools->Netlist Views-> RTL Views, obtemos o circuito:
+Clicando em Tools-> Netlist Views-> RTL Views, obtemos o circuito:
 
 ![rtl_gates](https://github.com/yrflx/CIRCUITOS-LOGICOS/raw/master/Printscreens/rtl_gates.png)
 
